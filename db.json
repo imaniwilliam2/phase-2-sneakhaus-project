@@ -1,0 +1,197 @@
+{
+    "sneakers": [
+        {
+            "name": "Off-White x Jordan 4 Retro SP 'Sail'",
+            "price": "$1,350",
+            "size": "7 W",
+            "year": "2020",
+            "image": "./assets/sail.webp",
+            "id": 1
+        },
+        {
+            "name": "Air Jordan 1 Retro High OG 'Shattered Backboard 3.0'",
+            "price": "$600",
+            "size": "11 M",
+            "year": "2019",
+            "image": "./assets/SB.webp",
+            "id": 2
+        },
+        {
+            "name": "Air Jordan 4 Retro 'Black Cat'",
+            "price": "$1,000 - $2,500",
+            "size": "8 W, 13 M, 4 W",
+            "year": "2020",
+            "image": "./assets/blackCat.jpeg",
+            "id": 3
+        },
+        {
+            "name": "New Balance 550 'Marquette'",
+            "price": "$100 - $200",
+            "size": "All Sizes",
+            "year": "2022",
+            "image": "./assets/marquette.jpeg",
+            "id": 4
+        },
+        {
+            "name": "Yeezy Foam Runner 'Vermillion'",
+            "price": "$250 - $500",
+            "size": "All Sizes",
+            "year": "2021",
+            "image": "./assets/vermillion.jpeg",
+            "id": 5
+        },
+        {
+            "name": "Air Max 90 Surplus 'Desert Camo'",
+            "price": "$200 - $600",
+            "size": "4 W, 7 W, 10 W",
+            "year": "2020",
+            "image": "./assets/desertCamo.jpeg",
+            "id": 6
+        },
+        {
+            "name": "Ben x Jerry's x Dunk Low SB 'Chunky Monkey'",
+            "price": "$2,000 - $2,500",
+            "size": "5.5 W & 10 M",
+            "year": "2020",
+            "image": "./assets/ben.jpeg",
+            "id": 7
+        },
+        {
+            "name": "Samba OG 'Black Wonder White'",
+            "price": "$130 - $200",
+            "size": "All Sizes",
+            "year": "2023",
+            "image": "./assets/samba.jpeg",
+            "id": 8
+        },
+        {
+            "name": "Golden Goose Super-Star Various 'Lime Green'",
+            "price": "$800",
+            "size": "All Sizes",
+            "year": "2020",
+            "image": "./assets/GG.jpeg",
+            "id": 9
+        },
+        {
+            "name": "New Balance 550 'White Green'",
+            "price": "$150",
+            "size": "All Sizes",
+            "year": "2021",
+            "image": "./assets/whiteGreen.webp",
+            "id": 10
+        },
+        {
+            "name": "Yeezy Slides 'Glow Green'",
+            "price": "$100 - $200",
+            "size": "Limited Sizes",
+            "year": "2021",
+            "image": "./assets/glowGreen.jpeg",
+            "id": 11 
+        },
+        {
+            "name": "Bottega Veneta Tire Boot 'Black Grass'",
+            "price": "$1000 - $1,500",
+            "size": "All Sizes",
+            "year": "2022",
+            "image": "./assets/bottega.jpeg",
+            "id": 12
+        },
+        {
+            "name": "Off-White x Air Jordan 1 Retro High OG 'Chicago'",
+            "price": "$2,000",
+            "size": "7 M",
+            "year": "2017",
+            "image": "./assets/chicago.jpeg",
+            "id": 13
+        },
+        {
+            "name": "Dunk Low 'Michigan State'",
+            "price": "$200 - $500",
+            "size": "All Sizes",
+            "year": "2021",
+            "image": "./assets/michigan.webp",
+            "id": 14
+        },
+        {
+            "name": "Yeezy Slides 'Enflame Orange'",
+            "price": "$200 - $300",
+            "size": "All Sizes",
+            "year": "2021",
+            "image": "./assets/enflame.jpeg",
+            "id": 15
+        },
+        {
+            "name": "Air Jordan 1 Retro High OG 'Court Purple 2.0'",
+            "price": "$250 - $700",
+            "size": "Limited Sizes",
+            "year": "2020",
+            "image": "./assets/courtPurple.jpeg",
+            "id": 16 
+        },
+        {
+            "name": "Air Force 1 '07 'Triple White'",
+            "price": "$100",
+            "size": "All Sizes",
+            "year": "2020",
+            "image": "./assets/white.webp",
+            "id": 17
+        },
+        {
+            "name": "New Balance 9060 'Triple Black Leather'",
+            "price": "$200",
+            "size": "10 M, 5 W, 6.5 W",
+            "year": "2023",
+            "image": "./assets/triple.jpeg",
+            "id": 18
+        }, 
+        {
+            "name": "Air Jordan 4 Retro 'Bred Reimagined'",
+            "price": "$200 - $400",
+            "size": "Limited Sizes",
+            "year": "2024",
+            "image": "./assets/reimagined.jpeg",
+            "id": 19 
+        },
+        {
+            "name": "Yeezy Foam Runner 'Onyx'",
+            "price": "$100 - $300",
+            "size": "All Sizes",
+            "year": "2022",
+            "image": "./assets/onyx.jpeg",
+            "id": 20 
+        }, 
+        {
+            "name": "Dunk Low Retro SP 'Syracuse'",
+            "price": "$100 - $300",
+            "size": "16 M, 6 M, 9 W",
+            "year": "2020",
+            "image": "./assets/syracuse.jpeg",
+            "id": 21
+        },
+        {
+            "name": "Off-White x Air Force 1 Low 'Lemonade'",
+            "price": "$1,500 - $2,000",
+            "size": "11 M, 7 W",
+            "year": "2021",
+            "image": "./assets/lemonade.jpeg",
+            "id": 22
+        },
+        {
+            "name": "Air Jordan 4 Retro 'Canyon Purple'",
+            "price": "$200 - $500",
+            "size": "Limited Sizes",
+            "year": "2022",
+            "image": "./assets/canyon.jpeg",
+            "id": 23
+        },
+        {
+            "name": "Air Jordan 11 Retro 'Bred'",
+            "price": "$350 - $700",
+            "size": "8 M",
+            "year": "2019",
+            "image": "./assets/bred.jpeg",
+            "id": 24
+        }
+
+    ]
+}
