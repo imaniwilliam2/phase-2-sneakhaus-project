@@ -1,11 +1,15 @@
 import App from "./components/App";
 import Home from "./components/Home";
 import SneakerDetails from "./components/SneakerDetails";
+import SneakerForm from "./components/SneakerForm";
+import Haus from "./components/Haus"
+import ErrorPage from "./components/ErrorPage"
 
 const routes = [
     {
         path:"/",
         element: <App />,
+        errorElement: <ErrorPage />,
         children: [
             {
                 path: "/",
@@ -14,11 +18,11 @@ const routes = [
             },
             {
                 path:"/add-sneak",
-                element: <h1>Add A Sneaker Here</h1>
+                element: <SneakerForm />
             },
             {
                 path:"/my-haus",
-                element: <h1>Collect Your Favorites Here</h1>
+                element: <Haus />
             },
             {
                 path:"/sneaker/:id",
