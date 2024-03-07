@@ -23,7 +23,7 @@ function SneakerDetails() {
             <img className="details-img" src={sneakerDets.image} alt={sneakerDets.name}/>
             <h1>{sneakerDets.name} </h1>
             <h2>Size: {sneakerDets.size}</h2>
-            <h2>Price: {sneakerDets.price} US</h2>
+            <h2>Price Range: ${sneakerDets.price} US</h2>
             <h2>Year Released: {sneakerDets.year}</h2>
         </main>
         <footer>

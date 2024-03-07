@@ -17,6 +17,7 @@ function App() {
     .then(sneakerData => setSneakers(sneakerData))
   }, [])
 
+
   // Haus Display Request
   useEffect(() => {
     fetch('http://localhost:3000/haus')
@@ -24,6 +25,7 @@ function App() {
     .then(hausData => setHausSneakers(hausData))
   }, [])
 
+  
 
   // Add A Sneaker to Server Request
   function addSneaker(newSneaker) {

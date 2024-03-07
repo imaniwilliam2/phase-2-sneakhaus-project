@@ -248,7 +248,8 @@ form input{
   font-family: myFont;
   display: inline-block;
   outline: 0;
-  border: .5px solid black;
+  border: 1px solid black;
+  /* border: none; */
   cursor: pointer;
   height: 32px;
   padding: 0px 16px;
