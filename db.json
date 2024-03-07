@@ -6,7 +6,7 @@
       "size": "11 M",
       "year": "2020",
       "image": "/assets/sail2.jpeg",
-      "liked": true,
+      "liked": false,
       "id": "1"
     },
     {
@@ -15,7 +15,7 @@
       "size": "8 W, 13 M, 4 W",
       "year": "2020",
       "image": "/assets/cats.jpeg",
-      "liked": true,
+      "liked": false,
       "id": "2"
     },
     {
@@ -51,7 +51,7 @@
       "size": "All Sizes",
       "year": "2023",
       "image": "/assets/wonder.webp",
-      "liked": true,
+      "liked": false,
       "id": "6"
     },
     {
@@ -87,7 +87,7 @@
       "size": "All Sizes",
       "year": "2022",
       "image": "/assets/bottega.jpeg",
-      "liked": true,
+      "liked": false,
       "id": "10"
     },
     {
@@ -96,7 +96,7 @@
       "size": "7 M",
       "year": "2017",
       "image": "/assets/chicago.jpeg",
-      "liked": true,
+      "liked": false,
       "id": "11"
     },
     {
@@ -114,7 +114,7 @@
       "size": "All Sizes",
       "year": "2021",
       "image": "/assets/enflamed.webp",
-      "liked": true,
+      "liked": false,
       "id": "13"
     },
     {
